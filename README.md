@@ -20,7 +20,7 @@
 ## Setup Instructions
 
 ### Prerequisites
-- Node.js installed (v14+ recommended)
+- Node.js installed (22.15.0)
 - MongoDB running locally or accessible via URI
 - npm or yarn package manager
 
