@@ -40,17 +40,17 @@ SIGNATURE_GenretToken_member=memberSecretToken
 SIGNATURE_GenretToken_admin=adminSecretToken
 ...
 4.Start the server: npm run dev
-##Error Handling
+## Error Handling
 Uses standard HTTP status codes (400, 401, 403, 404, 500).
 
 Returns JSON responses with error messages.
 
-##Testing
+## Testing
 All routes tested with Postman (exported collection included).
 
 Ensure to provide JWT token in Authorization header for protected routes.
 
-##Bonus Tasks Implemented
+## Bonus Tasks Implemented
 Advanced book search with pagination.
 
 Role-based access control.
@@ -59,6 +59,6 @@ Rate limiting on login endpoint.
 
 Input sanitization to prevent MongoDB injection.
 
-##Contact
+## Contact
 For any questions, contact:
 Email: ma7moudelb7ar@gmail.com
